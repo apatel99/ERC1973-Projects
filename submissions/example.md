@@ -1,18 +1,19 @@
-# Project Name: Krawlcat 
+# Project Name: Dividend sharing on Blockchain 
 
-# Authors and Github username: Lee Raj (@lerajk)
+# Authors and Github username: Anish Patel and apatel99
 
 # Description of the Project 
 
-A Layer-2 decentralized oracle protocol that aggregates cryptocurrency prices from various nodes within the network. 
+A layer 2 dividend and stocks distribution solution over a decentralized network using EIP1973
 
 # Problem specification related to ERC 1973
 
-Participating nodes in the Krawlcat network need to be incentivized when contributing good data and punished for providing fraudulent data. When the nodes in the network reach a higher limit (100s, 1000s), ERC20 reward distribution faces a bottleneck due to block gas limit.  
+Corporate scams have always been the talk of town as it was quite possible before Blockchain to successfully mutate the data and make a fraud happen. Rich could easily stop other rich people from growing and this mostly happens due to mutable records and cheating.
 
 # Solution in relation to ERC 1973 
 
-Sound application of ERC 1973 allows ERC20 reward distribution in a scalable manner to all the partcipating nodes. 
+Blockchain is moving from cryptos to other sides of applications now. With the introduction of tokens one can dissolve shares as security tokens and can share dividends or profits using the EIP1973 rewards distribution mechanism.
+ERC1973 allows dynamically sharing the profits/rewards, and this helps such a platform to function on Blockchain. Such design allows shareholders to buy and sell shares at any point in time.
 
 # Related Links
 
