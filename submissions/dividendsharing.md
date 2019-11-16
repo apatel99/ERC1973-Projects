@@ -32,7 +32,7 @@ company issues shares every 6 months->number of share holders -> dividend sharin
  
  # Related Links
  
- * Github repo for the project 
+ * https://github.com/apatel99/ERC1973-project.git
  * Website link
  
  # Additional Notes
