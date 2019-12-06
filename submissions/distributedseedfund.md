@@ -17,8 +17,8 @@ The investors can then exchange the ERC1973 tokens for stable coins with the fir
 
 # Related Links
 
-* Github repo for the project
-* Wesbite link
+https://github.com/apatel99/ERC1973-project.git
+
 
 # Additional Notes 
 
